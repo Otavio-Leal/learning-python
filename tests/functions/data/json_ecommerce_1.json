@@ -1,0 +1,8 @@
+{
+  "produto_id": 101,
+  "nome": "Tênis Runner Pro",
+  "preço": 299.99,
+  "cores_disponíveis": ["branco", "preto"],
+  "disponibilidade": "em estoque",
+  "quantidade": 2
+}

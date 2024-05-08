@@ -1,0 +1,8 @@
+{
+  "produto_id": 303,
+  "nome": "Conjunto de Panelas Inox",
+  "preço": 459.99,
+  "cores_disponíveis": ["inox"],
+  "disponibilidade": "em estoque",
+  "quantidade": 2
+}

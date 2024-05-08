@@ -1,0 +1,8 @@
+{
+  "produto_id": 202,
+  "nome": "Smartwatch Fit Advanced",
+  "preço": 649.99,
+  "cores_disponíveis": ["prata", "preto"],
+  "disponibilidade": "limitada",
+  "quantidade": 2
+}
